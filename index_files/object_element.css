@@ -1,0 +1,65 @@
+/*通用基本图形*/
+.box{
+    position: relative;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 1vw;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .3);
+    border-style: hidden;
+}
+.box_mid{
+    width: fit-content;
+    margin: 0 auto;
+}
+.box:hover {
+    background-color: #f0f0f0;
+    border-radius: 1vw;
+    box-shadow: 12px 12px 2px rgba(0, 0, 0, .3);
+}
+
+/*div单位*/
+.scr{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-top:3vh;
+}
+
+/*标题*/
+.title_top{
+    font-size:8vh;
+    position:absolute;
+    top:75vh;
+    left: 50px;
+    text-align: left;
+    color: #f0f0f0;
+}
+.title_top_sub{
+    position: absolute;
+    top:87vh;
+    left: 50px;
+    text-align: left;
+    color: #f0f0f0;
+}
+
+/*隐藏按钮*/
+.button_hidden{
+    background: none;
+    border: none;
+    font-size: 1vw;
+    margin: 0;
+    padding: 0;
+}
+.button_hidden span{
+    color: #ffffff;
+}
+
+.start_button {
+    align-self: center;
+    position: absolute;
+    top: 90vh;
+    width: 100%;
+    text-align: center;
+    alignment: center;
+}
+
