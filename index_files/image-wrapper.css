@@ -1,0 +1,46 @@
+.wrapper {
+    width:100%;
+    margin:0 0 0 0;
+    padding-bottom:0;
+}
+
+/* qqshop focus */
+.clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+.clearfix {zoom:1;}
+
+/* qqshop focus */
+#focus {
+    width:100%;
+    height:100vh;
+    overflow:hidden;
+    position:absolute;
+    margin: 0;
+    padding: 0;
+    top:0;
+    left: 0;
+}
+#focus ul {
+    position:absolute;
+    width:100%;
+    height:100vh;
+    margin: 0;
+    padding: 0;
+}
+#focus ul li {
+    float:left;
+    width:10%;
+    height:100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#focus .preNext {width:45px; height:100px; background:url(/image/img_wrapper_button_2.png) no-repeat 0 0; cursor:pointer;}
+#focus .pre {float: left;}
+#focus .next {float: right; background-position:right top;}
+.wrap_selection{
+    width: 200px;
+    position: absolute;
+    alignment: right;
+    right:1vw;
+    bottom:1vh;
+}

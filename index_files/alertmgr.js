@@ -1,0 +1,179 @@
+function al_visiting_unsupported() {
+    alert("你正在不受支持的内容，这些内容将不会受到我们的监管，我们不会为这些内容负责。如果遇到信息冲突，请以新版本网页内容为准。");
+}
+function al_jumping() {
+    alert("正在跳转...");
+}
+function al_jsysb() {
+    alert("任务：数出下面jsysb的数量：\n " +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n" +
+        "jsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysbjsysb \n");
+    //160*9个
+    }
+
+function al_blocked(){
+    alert("因相关法律要求，本功能暂不开放");
+}
+
+function al_making(){
+    alert("正在等待相关服务接入...");
+}
